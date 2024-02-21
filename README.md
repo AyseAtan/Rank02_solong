@@ -49,3 +49,6 @@ You will get extra points if you:
 
 ## Heplful links: 
 - Oceano's Video on the minilibX: https://www.youtube.com/watch?v=bYS93r6U0zg
+- Oceano's recommended link to read about the minilibX: 
+    - https://harm-smits.github.io/42docs/
+    - https://gontjarow.github.io/MiniLibX/
