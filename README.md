@@ -52,6 +52,7 @@ You will get extra points if you:
 - Oceano's recommended link to read about the minilibX: 
     - https://harm-smits.github.io/42docs/
     - https://gontjarow.github.io/MiniLibX/
+- minilibx: https://github.com/42Paris/minilibx-linux/tree/master
  
 ## How you can create your own sprites ("images") for your game:
 - you can use the free version from canva (https://www.canva.com) to create .png images in the size you need (for example i used 50x50 pixel)
